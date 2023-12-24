@@ -1,0 +1,4 @@
+.env
+.passwd
+.terraform
+.terraform.lock.hcl
